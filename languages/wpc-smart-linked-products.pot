@@ -1,0 +1,251 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Smart Linked Products - Upsells & Cross-sells for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Linked Products - Upsells & Cross-sells for WooCommerce 1.3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-smart-linked-products\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-30T18:22:12+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-smart-linked-products\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Linked Products - Upsells & Cross-sells for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Smart Linked Products plugin simplifies managing related, upsells, and cross-sells products in bulk with custom rules and mixed combinations."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-smart-linked-products.php:333
+#: wpc-smart-linked-products.php:337
+#: wpc-smart-linked-products.php:348
+msgid "WPC Smart Linked Products"
+msgstr ""
+
+#: wpc-smart-linked-products.php:333
+#: wpc-smart-linked-products.php:369
+#: wpc-smart-linked-products.php:820
+msgid "Smart Upsells"
+msgstr ""
+
+#: wpc-smart-linked-products.php:337
+#: wpc-smart-linked-products.php:372
+#: wpc-smart-linked-products.php:821
+msgid "Smart Cross-sells"
+msgstr ""
+
+#: wpc-smart-linked-products.php:348
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-smart-linked-products.php:351
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-smart-linked-products.php:353
+msgid "Reviews"
+msgstr ""
+
+#: wpc-smart-linked-products.php:354
+msgid "Changelog"
+msgstr ""
+
+#: wpc-smart-linked-products.php:355
+msgid "Discussion"
+msgstr ""
+
+#: wpc-smart-linked-products.php:360
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-smart-linked-products.php:366
+#: wpc-smart-linked-products.php:819
+msgid "Settings"
+msgstr ""
+
+#: wpc-smart-linked-products.php:375
+#: wpc-smart-linked-products.php:822
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-smart-linked-products.php:378
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-smart-linked-products.php:391
+msgid "General"
+msgstr ""
+
+#: wpc-smart-linked-products.php:395
+msgid "Exclude unpurchasable"
+msgstr ""
+
+#: wpc-smart-linked-products.php:398
+msgid "Yes"
+msgstr ""
+
+#: wpc-smart-linked-products.php:399
+msgid "No"
+msgstr ""
+
+#: wpc-smart-linked-products.php:401
+msgid "Exclude unpurchasable products from upsells/cross-sells."
+msgstr ""
+
+#: wpc-smart-linked-products.php:460
+msgid "Our plugin checks rules from the top down the list. When there are products that satisfy more than 1 rule, the first rule on top will be prioritized. Please make sure you put the rules in the order of the most to the least prioritized."
+msgstr ""
+
+#: wpc-smart-linked-products.php:479
+msgid "+ Add rule"
+msgstr ""
+
+#: wpc-smart-linked-products.php:481
+msgid "Expand All"
+msgstr ""
+
+#: wpc-smart-linked-products.php:483
+msgid "Collapse All"
+msgstr ""
+
+#: wpc-smart-linked-products.php:487
+msgid "Remember to save current rules before exporting to get the latest version."
+msgstr ""
+
+#: wpc-smart-linked-products.php:487
+msgid "Import/Export"
+msgstr ""
+
+#: wpc-smart-linked-products.php:519
+msgid "Update"
+msgstr ""
+
+#: wpc-smart-linked-products.php:520
+msgid "* All current rules will be replaced after pressing Update!"
+msgstr ""
+
+#: wpc-smart-linked-products.php:584
+msgid "duplicate"
+msgstr ""
+
+#: wpc-smart-linked-products.php:585
+msgid "remove"
+msgstr ""
+
+#: wpc-smart-linked-products.php:590
+#: wpc-smart-linked-products.php:639
+msgid "Name"
+msgstr ""
+
+#: wpc-smart-linked-products.php:594
+msgid "For management only."
+msgstr ""
+
+#: wpc-smart-linked-products.php:599
+msgid "Add linked products to which?"
+msgstr ""
+
+#: wpc-smart-linked-products.php:605
+msgid "Define applicable linked products:"
+msgstr ""
+
+#: wpc-smart-linked-products.php:617
+msgid "Source"
+msgstr ""
+
+#: wpc-smart-linked-products.php:620
+msgid "All products"
+msgstr ""
+
+#: wpc-smart-linked-products.php:621
+#: wpc-smart-linked-products.php:657
+msgid "Products"
+msgstr ""
+
+#: wpc-smart-linked-products.php:622
+msgid "Combined (Premium)"
+msgstr ""
+
+#: wpc-smart-linked-products.php:633
+msgid "Limit"
+msgstr ""
+
+#: wpc-smart-linked-products.php:635
+msgid "Order by"
+msgstr ""
+
+#: wpc-smart-linked-products.php:636
+#: wpc-smart-linked-products.php:648
+msgid "Default"
+msgstr ""
+
+#: wpc-smart-linked-products.php:637
+msgid "None"
+msgstr ""
+
+#: wpc-smart-linked-products.php:638
+msgid "ID"
+msgstr ""
+
+#: wpc-smart-linked-products.php:640
+msgid "Type"
+msgstr ""
+
+#: wpc-smart-linked-products.php:641
+msgid "Rand"
+msgstr ""
+
+#: wpc-smart-linked-products.php:642
+msgid "Date"
+msgstr ""
+
+#: wpc-smart-linked-products.php:643
+msgid "Price"
+msgstr ""
+
+#: wpc-smart-linked-products.php:644
+msgid "Modified"
+msgstr ""
+
+#: wpc-smart-linked-products.php:647
+msgid "Order"
+msgstr ""
+
+#: wpc-smart-linked-products.php:649
+msgid "DESC"
+msgstr ""
+
+#: wpc-smart-linked-products.php:650
+msgid "ASC"
+msgstr ""
+
+#: wpc-smart-linked-products.php:659
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: wpc-smart-linked-products.php:673
+msgid "Terms"
+msgstr ""
+
+#: wpc-smart-linked-products.php:838
+msgid "Community support"
+msgstr ""
